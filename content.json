@@ -1,1 +1,48 @@
-{}
+{
+    "contactgegevens": {
+        "content_provider": {
+            "algemene_contactgegevens_organisatie": {
+                "adres": {},
+                "naam_instelling": "asdf"
+            },
+            "contactpersoon": [],
+            "logo": {}
+        },
+        "viaa": {
+            "contactpersoon_service_agreement": {}
+        }
+    },
+    "checklist_overeenkomst": {
+        "deel_i__collectiebeschrijving": {
+            "kwantificatie": {},
+            "technische_beschrijving_van_de_collectie": {
+                "technische_aard_van_de_collectie": {},
+                "formaat_van_het_data_object": []
+            },
+            "beschrijvende_metadata": {
+                "input_content_provider": {},
+                "mapping_viaa": {}
+            },
+            "thesaurus": {},
+            "rechten": {},
+            "object_referentie": {},
+            "preservering": {}
+        },
+        "deel_ii__ingest__archiveringsproces": {
+            "goedkeuring_essence_file_digitalisering": {},
+            "transfer": {
+                "inhoud_sip": {
+                    "essence": {}
+                },
+                "hoe_wordt_de_sip_aangeleverd": {}
+            },
+            "validatie": {}
+        },
+        "deel_iii__postarchivering": {
+            "reporting": {},
+            "nabewerking": {},
+            "export": {},
+            "interactie_cp_en_viaa": {}
+        }
+    }
+}
